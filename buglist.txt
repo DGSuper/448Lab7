@@ -1,0 +1,4 @@
+1. isEmpty() returns true on a non empty list
+2. addBack() doesn't add the value to the back
+3.removeBack() doesn't remove the back
+4.removeFront() doesn't remove the front
